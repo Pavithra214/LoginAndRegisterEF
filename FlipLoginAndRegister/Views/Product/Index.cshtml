@@ -1,0 +1,21 @@
+﻿@model List<ProdList>
+
+<h2>Products</h2>
+
+<div class="container my-5">
+    <div class="row">
+@foreach(var item in Model)
+        {
+            <div class="col-md-2 d-flex align-items-stretch">
+                <div class="card flex-fill">
+                    <img src=@item.imagelink class="card-img-top" alt="Image 2">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Name</h5>
+                        @* <a href="#" class="btn btn-primary">Appliances</a> *@
+                    </div>
+                </div>
+            </div>
+        }
+        
+     </div>
+     </div>

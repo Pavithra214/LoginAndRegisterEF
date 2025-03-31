@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|c:\\users\\pavithra\\source\\repos\\fliploginandregister\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|c:\\users\\pavithra\\source\\repos\\fliploginandregister\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|c:\\users\\pavithra\\source\\repos\\fliploginandregister\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|c:\\users\\pavithra\\source\\repos\\fliploginandregister\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|c:\\users\\pavithra\\source\\repos\\fliploginandregister\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|solutionrelative:models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|c:\\users\\pavithra\\source\\repos\\fliploginandregister\\models\\prodlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|solutionrelative:models\\prodlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|c:\\users\\pavithra\\source\\repos\\fliploginandregister\\models\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|solutionrelative:models\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|c:\\users\\pavithra\\source\\repos\\fliploginandregister\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|c:\\users\\pavithra\\source\\repos\\fliploginandregister\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|solutionrelative:views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|c:\\users\\pavithra\\source\\repos\\fliploginandregister\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|c:\\users\\pavithra\\source\\repos\\fliploginandregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|c:\\users\\pavithra\\source\\repos\\fliploginandregister\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|c:\\users\\pavithra\\source\\repos\\fliploginandregister\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|c:\\users\\pavithra\\source\\repos\\fliploginandregister\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|c:\\users\\pavithra\\source\\repos\\fliploginandregister\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD08E9ED-A337-40B6-B829-BAB576B2CA84}|FlipLoginAndRegister.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginData.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Models\\LoginData.cs",
+              "RelativeDocumentMoniker": "Models\\LoginData.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Models\\LoginData.cs",
+              "RelativeToolTip": "Models\\LoginData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:35:07.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T16:39:33.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "AppDBContext.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\AppDBContext.cs",
+              "RelativeToolTip": "AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:36:04.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdList.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Models\\ProdList.cs",
+              "RelativeDocumentMoniker": "Models\\ProdList.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Models\\ProdList.cs",
+              "RelativeToolTip": "Models\\ProdList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:08:42.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T15:54:14.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:51:37.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:44:47.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T15:23:38.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T15:23:31.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T15:23:19.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T15:23:02.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:22:10.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Models\\UserData.cs",
+              "RelativeDocumentMoniker": "Models\\UserData.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Models\\UserData.cs",
+              "RelativeToolTip": "Models\\UserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:18:54.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:16:33.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PAVITHRA\\source\\repos\\FlipLoginAndRegister\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T12:01:57.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
